@@ -2,8 +2,8 @@
 using namespace std;
 struct node
 {
-	int info;
-	node *left, *right;
+	int Root;
+	node *Left, *Right;
 };
 // Viet thu tuc duyet cay theo thu tu LRN (dung QUEUE)
 void LRN(TREE Root)
