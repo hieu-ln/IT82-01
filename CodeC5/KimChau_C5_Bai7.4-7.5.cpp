@@ -53,9 +53,7 @@ int PopS(int &x)
 
 // end STACK
 //CAY 7.4:
-int dfs[100]; // cai nay ham void duoi kia. 
-//coi lai cho nay o
-// uhm code loi nha
+int dfs[100]; 
 int ndfs = 0;
 void DFS(int s)
 {
